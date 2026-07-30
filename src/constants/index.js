@@ -140,21 +140,23 @@ const technologies = [
 
 const experiences = [
  
-  {
-    title: "Full Stack Developer",
-    company_name: "Longshore",
-    icon: longshore,
-    iconBg: "#E6DEDD",
-    date: "June 2024 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Integrated React Redux for state management and implemented actions, reducers, and selectors.",
-      "Collaborated with cross-functional teams to gather requirements and deliver high-quality software solutions.",
-      "Designed and integrated an intuitive user interface that allowed users to dynamically add and remove rows within the MUI table, providing a seamless experience for data management and manipulation.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+ {
+title: "Full Stack Developer",
+company_name: "Longshore",
+icon: longshore,
+iconBg: "#E6DEDD",
+date: "June 2024 - Present",
+points: [
+"Developing and maintaining dynamic reporting solutions using React.js, Node.js, Express.js, and MongoDB.",
+"Building configurable PDF reports for investor, compliance, beneficial ownership, transaction, and financial reporting requirements.",
+"Designing reusable and scalable report components that dynamically render data based on different report types and business requirements.",
+"Integrating REST APIs to retrieve, process, and present complex financial and organizational data within web and PDF reports.",
+"Implementing dynamic tables, conditional data rendering, pagination, and responsive layouts to ensure accurate and well-structured reports.",
+"Collaborating with cross-functional teams to gather reporting requirements, resolve data-related issues, and deliver reliable reporting solutions.",
+"Participating in code reviews and improving report performance, maintainability, and overall code quality."
+],
+},
+
 ];
 
 const testimonials = [

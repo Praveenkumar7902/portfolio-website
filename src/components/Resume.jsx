@@ -1,5 +1,5 @@
 import React from "react";
-import Parthiban_resume from "../assets/Parthiban_resume.pdf";
+import Praveen_Kumar_Resume from "../assets/Praveen_Kumar_Resume.pdf";
 import { RxDownload } from "react-icons/rx";
 import { motion } from "framer-motion";
 import { slideIn } from "../utils/motion";
@@ -32,8 +32,8 @@ const Resume = () => {
           <button className="green-pink-gradient p-[1px] rounded-[20px] text-white font-bold shadow-md cursor-pointer">
             <motion.a
               className="bg-tertiary cursor-pointer rounded-[20px] py-5 px-12 min-h-[40px] flex justify-center items-center flex-row gap-0" // Set gap to 0
-              href={Parthiban_resume}
-              download="Parthiban_resume.pdf"
+              href={Praveen_Kumar_Resume}
+              download="Praveen_Kumar_Resume.pdf"
             >
               {resume.map((char, index) => (
                 <motion.span
