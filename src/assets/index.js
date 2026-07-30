@@ -26,9 +26,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
 
 import mui from "./mui.png";
 import antd from "./antd.png";
@@ -43,7 +41,6 @@ import api from "./api.png";
 import milky from "./milky.jpg";
 import reactnative from "./reactnative.svg";
 import react1 from "./react1.png";
-import aroopa from "./aroopa.jpg";
 import longshore from "./longshore.jpg";
 import instagram from "./instagram.png";
 import linkedin from "./linkedin.png";
@@ -98,9 +95,6 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
   mui,
   antd,
   aggrid,
@@ -114,7 +108,6 @@ export {
   milky,
   reactnative,
   react1,
-  aroopa,
   longshore,
   instagram,
   linkedin,

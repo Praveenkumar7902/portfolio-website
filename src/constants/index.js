@@ -11,9 +11,6 @@ import {
   docker,
   git,
   github,
-  carrent,
-  jobit,
-  tripguide,
   mui,
   antd,
   aggrid,
@@ -23,7 +20,6 @@ import {
   python,
   api,
   react1,
-  aroopa,
   longshore,
   instagram3d,
   linkedin3d,
@@ -205,8 +201,6 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
   },
   {
     name: "Job IT",
@@ -226,8 +220,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+ 
   },
   {
     name: "Trip Guide",
@@ -247,8 +240,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+ 
   },
 ];
 
