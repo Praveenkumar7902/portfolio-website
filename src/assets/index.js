@@ -41,7 +41,7 @@ import api from "./api.png";
 import milky from "./milky.jpg";
 import reactnative from "./reactnative.svg";
 import react1 from "./react1.png";
-import longshore from "./longshore.jpg";
+import longshore from "./longshore.png";
 import instagram from "./instagram.png";
 import linkedin from "./linkedin.png";
 import pokeball from "./pokeball.png";
