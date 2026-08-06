@@ -143,14 +143,15 @@ icon: longshore,
 iconBg: "#E6DEDD",
 date: "June 2024 - Present",
 points: [
-"Developing and maintaining dynamic reporting solutions using React.js, Node.js, Express.js, and MongoDB.",
-"Building configurable PDF reports for investor, compliance, beneficial ownership, transaction, and financial reporting requirements.",
-"Designing reusable and scalable report components that dynamically render data based on different report types and business requirements.",
-"Integrating REST APIs to retrieve, process, and present complex financial and organizational data within web and PDF reports.",
-"Implementing dynamic tables, conditional data rendering, pagination, and responsive layouts to ensure accurate and well-structured reports.",
-"Collaborating with cross-functional teams to gather reporting requirements, resolve data-related issues, and deliver reliable reporting solutions.",
-"Participating in code reviews and improving report performance, maintainability, and overall code quality."
+"Develop and maintain scalable reporting applications using React.js, Node.js, Express.js, and MongoDB.",
+"Build configurable PDF reports for investor, compliance, beneficial ownership, transaction, and financial reporting requirements.",
+"Design reusable and modular report components that dynamically render complex data across multiple report types and business requirements.",
+"Integrate REST APIs to retrieve, transform, validate, and present financial and organizational data across web and PDF reports.",
+"Implement dynamic tables, conditional rendering, pagination, data validation, and responsive layouts to deliver accurate and user-friendly reports.",
+"Collaborate with cross-functional teams to understand reporting requirements, troubleshoot data issues, and deliver reliable production features.",
+"Participate in code reviews, debugging, performance optimization, and refactoring to improve application maintainability and code quality."
 ],
+
 },
 
 ];
