@@ -36,9 +36,13 @@ const About = () => {
       </motion.div>
       <motion.p variants={fadeIn('', '', 0.1, 1)}  
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        I'm a skilled software developer with experience in javaScript, and expertise in frameworks like React, Node.js.
-        My ability to pick things up quickly is strong, and I work directly with customers to develop scalable, user-friendly
-         solutions that effectively address challenges in the real world. Together, let's visualize and implement your ideas!
+     I'm a React.js Developer with 2+ years of professional experience building and enhancing scalable, 
+     user-friendly web applications using JavaScript, React.js, Node.js, and MongoDB.
+     I have experience developing reusable UI components, integrating REST APIs, implementing business workflows,
+     and working with data-driven applications to solve real-world challenges. I’m passionate about writing clean,
+     maintainable code, continuously improving my technical skills, and building solutions that deliver a great
+     user experience.
+
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index)=> (
